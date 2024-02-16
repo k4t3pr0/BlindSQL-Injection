@@ -16,7 +16,7 @@ By using this tool, users acknowledge and accept these terms and conditions and 
 Install BlindSQL-Injection with following steps:
 
 ```bash
-$ git clone https://github.com/BlindSQL-Injection/BlindSQL-Injection.git
+$ git clone https://github.com/k4t3pr0/BlindSQL-Injection.git
 $ cd BlindSQL-Injection
 $ pip3 install -r requirements.txt 
 ```
