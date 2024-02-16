@@ -168,4 +168,5 @@ elif args.list != None:
    else:
       onfile()
 else:
-   print("Error: One out of the two flag -u or -l is required")       
+   print("Error: One out of the two flags -u or -l is required")       
+
